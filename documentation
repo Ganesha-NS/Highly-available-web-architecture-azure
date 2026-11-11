@@ -1,0 +1,12 @@
+# Project Documentation
+
+This folder contains the project presentation and technical documentation for the Highly Available Web Application Architecture on Microsoft Azure.
+
+## Contents
+
+- Cloud Architecture Project Presentation
+- Azure Architecture Design
+- Network Architecture
+- Load Balancer and DNS Configuration
+- Database Security and Private Connectivity
+- Azure Monitoring
